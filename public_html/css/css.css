@@ -1,0 +1,118 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 12, 2016, 2:11:48 PM
+    Author     : chris
+*/
+
+/* navbar */
+.navbar{
+    background-color:white;
+    border-color:white;
+    margin-bottom: 10px;
+}
+.navbar-brand{
+    padding: 0px 15px;
+}
+.navbar-nav>li>a{
+    font-family:impact;
+}
+.navbar-default .navbar-nav>li>a {
+    color:black
+}
+.dropdown-menu>li>a {
+    font-family:impact;
+}
+.dropdown-menu>li>a:hover{
+    color:red;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color:red;
+}
+.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover {
+    color:red;}
+
+
+/* carousel*/
+.carousel-caption {
+    font-family:impact;
+    color:red;
+}
+/* text container */
+div.container{
+    margin-top: 15px;
+}
+h4{
+    font-family:impact;
+    color:#31708F;
+}
+h2{
+    font-family:impact;
+    color:red;
+}
+.fa-check{
+    color:green;
+}
+.btn-success{
+    font-family:arial;
+}
+
+/* jumbotron */
+
+.caption{
+    text-align: center;
+}
+#calltoday{
+    font-family:impact;
+    text-align:center;
+    color:#337AB7;
+}
+#jumbotronthumbnails{
+    padding:0;
+    margin-top:20px;
+}
+#blueContainer{
+    background-color:#337AB7;
+}
+#constructionBack{
+    background-color: yellow;
+}
+#locationInformation{
+    text-align:center;
+    color:white;
+}
+#locations{
+    font-family:impact;
+}
+#locationInformation>p{
+    font-size:12px;
+    margin-bottom:0px;
+}
+#formContainer{
+    margin-top: 0px;
+}
+#contactUs{
+    font-family:impact;
+    color:white;
+    margin-left: 12px;
+    margin-top:0px;
+}
+#formButton{
+    margin-left:12px;
+}
+#commentsInput{
+    height:60px;
+    margin-bottom:0px;
+}
+#formContainer{
+    text-align:center;
+}
+#commentForm{
+    margin-bottom:0px;
+}
+.a{
+    width: 40px;
+}
